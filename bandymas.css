@@ -1,0 +1,18 @@
+.body-container {
+  background-image: url("https://fastly.picsum.photos/id/13/2500/1667.jpg?hmac=SoX9UoHhN8HyklRA4A3vcCWJMVtiBXUg0W4ljWTor7s") !important;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.feature-icon img {
+  border-radius: 50%;
+}
+
+.icon {
+  color: rgb(91, 91, 236);
+  margin-right: 10px;
+}
+
+.border {
+  border: none !important;
+}
